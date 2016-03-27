@@ -1,0 +1,33 @@
+-keep class com.mncomunity1.IsmartApp {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.mncomunity1.activity.Splash { <init>(); }
+-keep class com.mncomunity1.MainActivity { <init>(); }
+-keep class com.google.android.gcm.GCMBroadcastReceiver { <init>(); }
+-keep class com.mncomunity1.GCMIntentService { <init>(); }
+-keep class com.mncomunity1.activity.MyCourseActivity { <init>(); }
+-keep class com.mncomunity1.activity.MainActivityTap { <init>(); }
+-keep class com.mncomunity1.activity.AllCourseActivity { <init>(); }
+-keep class com.mncomunity1.activity.VideoCacheActivity { <init>(); }
+-keep class com.mncomunity1.activity.SeeAllCourseActivity { <init>(); }
+-keep class com.mncomunity1.activity.DetailCourseActivity { <init>(); }
+-keep class com.mncomunity1.activity.SettingActivity { <init>(); }
+-keep class com.mncomunity1.activity.LoginActivity { <init>(); }
+-keep class com.mncomunity1.activity.PhotoActivity { <init>(); }
+-keep class com.mncomunity1.activity.ListWebViewActivity { <init>(); }
+-keep class com.mncomunity1.activity.ListLayer1Activity { <init>(); }
+-keep class com.mncomunity1.activity.TrainCourseActivity { <init>(); }
+-keep class com.mncomunity1.activity.RegisterActivity { <init>(); }
+-keep class com.mncomunity1.activity.AboutWebViewActivity { <init>(); }
+-keep class com.mncomunity1.activity.PhotoActivityMian { <init>(); }
+-keep class com.mncomunity1.activity.ForgetActivity { <init>(); }
+-keep class com.mncomunity1.MainActivity2 { <init>(); }
+-keep class com.mncomunity1.activity.ListActivity { <init>(); }
+-keep class com.mncomunity1.activity.Share { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

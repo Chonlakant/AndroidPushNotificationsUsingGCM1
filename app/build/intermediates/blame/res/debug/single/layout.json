@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/dialog_check_user.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/dialog_check_user.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/activity_photo.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/activity_photo.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/dialog_loading.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/dialog_loading.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/content_login.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/content_login.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/item_course_recycleview.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/item_course_recycleview.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/vv.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/vv.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/tabbar_view.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/tabbar_view.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/fragment_courses_all.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/fragment_courses_all.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/video_fragment.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/video_fragment.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/activity_course_detail.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/activity_course_detail.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/webview.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/webview.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/chat_rooms_list_row.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/chat_rooms_list_row.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/activity_main_tap.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/activity_main_tap.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/chat_item_other.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/chat_item_other.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/slider_layout.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/res/layout/slider_layout.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/my_activity_course.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/my_activity_course.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/splashscreen.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/splashscreen.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/render_type_default.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/res/layout/render_type_default.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/activity_video.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/activity_video.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/forget_password.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/forget_password.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/activity_main_2.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/activity_main_2.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/chat_item_self.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/chat_item_self.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/inc_social_buttons_number.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/inc_social_buttons_number.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/layout_snackbar.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/render_type_text.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/res/layout/render_type_text.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/activity_register2.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/activity_register2.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/setting_activity.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/setting_activity.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/item_course_detail.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/item_course_detail.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/item_feed_photo_detail.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/item_feed_photo_detail.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/activity_course.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/activity_course.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/activity_list.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/activity_list.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/layout_snackbar_include.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/navigation_header.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/navigation_header.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/item_comment.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/item_comment.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/tool_bar.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/tool_bar.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/list_recycleview.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/list_recycleview.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/activity_train_course.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/activity_train_course.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/content_chat_room.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/content_chat_room.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/dialog_pass.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/dialog_pass.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/item_layout_main.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/item_layout_main.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/inc_feed_header.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/inc_feed_header.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/item.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/item.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/main_video_player.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/main_video_player.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/activity_main_gcm.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/activity_main_gcm.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/indicator_layout.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/res/layout/indicator_layout.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/activity_chat_room.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/activity_chat_room.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/activity_photo_main.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/activity_photo_main.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/item_course.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/item_course.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/item_feed_photo.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/item_feed_photo.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/all_item_course_recycleview.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/layout/all_item_course_recycleview.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    }
+]

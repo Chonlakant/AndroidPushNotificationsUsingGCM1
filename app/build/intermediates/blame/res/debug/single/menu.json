@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/menu/menu_drawer.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/menu/menu_drawer.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/menu/menu_item_list.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/menu/menu_item_list.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/build/intermediates/res/merged/debug/menu/options_menu.xml",
+        "source": "/Users/root1/Documents/งานบริษัทIT_sof/AndroidPushNotificationsUsingGCM1/app/src/main/res/menu/options_menu.xml"
+    }
+]
